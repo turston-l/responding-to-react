@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/turston-l/responding-to-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/turston-l/responding-to-react/static/js/main.5adfcf12.chunk.js",
+    "main.js.map": "/turston-l/responding-to-react/static/js/main.5adfcf12.chunk.js.map",
+    "runtime-main.js": "/turston-l/responding-to-react/static/js/runtime-main.b6d9aa73.js",
+    "runtime-main.js.map": "/turston-l/responding-to-react/static/js/runtime-main.b6d9aa73.js.map",
+    "static/js/2.34db6d1d.chunk.js": "/turston-l/responding-to-react/static/js/2.34db6d1d.chunk.js",
+    "static/js/2.34db6d1d.chunk.js.map": "/turston-l/responding-to-react/static/js/2.34db6d1d.chunk.js.map",
+    "static/js/3.dfdc4d2e.chunk.js": "/turston-l/responding-to-react/static/js/3.dfdc4d2e.chunk.js",
+    "static/js/3.dfdc4d2e.chunk.js.map": "/turston-l/responding-to-react/static/js/3.dfdc4d2e.chunk.js.map",
+    "index.html": "/turston-l/responding-to-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/turston-l/responding-to-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.34db6d1d.chunk.js.LICENSE.txt": "/turston-l/responding-to-react/static/js/2.34db6d1d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/turston-l/responding-to-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6d9aa73.js",
+    "static/js/2.34db6d1d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5adfcf12.chunk.js"
+  ]
+}
